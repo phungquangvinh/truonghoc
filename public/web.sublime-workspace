@@ -1,0 +1,400 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"se",
+				"selected\tAttr"
+			],
+			[
+				"clo",
+				"console"
+			],
+			[
+				"fro",
+				"formData"
+			],
+			[
+				"form",
+				"formData"
+			],
+			[
+				"o",
+				"object\t<object>"
+			],
+			[
+				"e",
+				"enctype\tAttr"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"com",
+				"comment"
+			],
+			[
+				"va",
+				"value\tAttr"
+			],
+			[
+				"da",
+				"data"
+			],
+			[
+				"w",
+				"width\tAttr"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 164.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/xampp/htdocs/duan1/routes/web.php",
+		"/D/xampp/htdocs/duan1/app/Http/Controllers/dangnhapController.php",
+		"/D/xampp/htdocs/duan1/app/Http/Controllers/RoleController.php",
+		"/D/xampp/htdocs/duan1/app/Http/Controllers/UserController.php",
+		"/D/xampp/htdocs/duan1/resources/views/users/show.blade.php",
+		"/D/xampp/htdocs/duan1/resources/views/users/index.blade.php",
+		"/D/xampp/htdocs/duan1/resources/views/layouts/app.blade.php",
+		"/D/xampp/htdocs/duan1/resources/views/roles/edit.blade.php",
+		"/D/xampp/htdocs/duan1/resources/views/roles/index.blade.php",
+		"/D/xampp/htdocs/duan1/resources/views/users/create.blade.php",
+		"/D/xampp/htdocs/duan1/resources/views/users/edit.blade.php",
+		"/D/xampp/htdocs/duan1/app/Http/Controllers/HomeController.php",
+		"/D/xampp/htdocs/duan1/config/app.php",
+		"/D/xampp/htdocs/duan1/composer.json",
+		"/D/xampp/htdocs/duan1/app/Role.php",
+		"/D/xampp/htdocs/duan1/resources/views/ItemCRUD2/index.blade.php",
+		"/D/xampp/htdocs/duan1/resources/views/ItemCRUD2/create.blade.php",
+		"/D/xampp/htdocs/duan1/resources/views/ItemCRUD2/edit.blade.php",
+		"/D/xampp/htdocs/duan1/resources/views/ItemCRUD2/show.blade.php",
+		"/D/xampp/htdocs/duan1/resources/views/roles/create.blade.php",
+		"/D/xampp/htdocs/duan1/resources/views/roles/show.blade.php",
+		"/D/xampp/htdocs/duan1/app/Http/Kernel.php",
+		"/D/xampp/htdocs/duan1/app/Http/Controllers/ItemCRUD2Controller.php",
+		"/D/xampp/htdocs/duan1/database/migrations/2019_04_01_015540_create_items_table.php",
+		"/D/xampp/htdocs/duan1/app/Item.php",
+		"/D/xampp/htdocs/duan1/app/Permission.php",
+		"/D/xampp/htdocs/duan1/database/seeds/PermissionTableSeeder.php",
+		"/D/xampp/htdocs/duan1/resources/views/errors/403.blade.php",
+		"/D/xampp/htdocs/duan1/app/Console/Kernel.php",
+		"/D/xampp/htdocs/duan1/database/seeds/DatabaseSeeder.php",
+		"/D/xampp/htdocs/duan1/database/seeds/RolesTableSeeder.php",
+		"/D/xampp/htdocs/duan1/database/seeds/UsersTableSeeder.php",
+		"/D/xampp/htdocs/duan1/app/User.php",
+		"/D/xampp/htdocs/duan1/app/models/Permission.php",
+		"/D/xampp/htdocs/duan1/app/models/Role.php",
+		"/D/Sublime Text Build 3176 x64/Data/Packages/Terminal/Terminal.sublime-settings",
+		"/D/xampp/htdocs/duan1/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/D/xampp/htdocs/duan1/database/migrations/2019_03_28_034337_entrust_setup_tables.php",
+		"/D/xampp/htdocs/duan1/public/asset/bower_components/bootstrap-daterangepicker/package.js",
+		"/D/xampp/htdocs/duan1/config/auth.php",
+		"/D/xampp/htdocs/duan1/database/migrations/2019_03_05_075946_tintuc.php",
+		"/D/xampp/htdocs/duan1/database/factories/SliderFactory.php",
+		"/D/xampp/htdocs/duan1/database/seeds/SliderSeeder.php",
+		"/D/xampp/htdocs/duan1/app/Http/Controllers/slideController.php",
+		"/D/xampp/htdocs/duan1/public/js/editslider.js",
+		"/D/xampp/htdocs/duan1/app/Slides.php",
+		"/D/xampp/htdocs/duan1/resources/views/page/slider.blade.php",
+		"/D/xampp/htdocs/duan1/resources/views/page/editslider.blade.php",
+		"/D/xampp/htdocs/duan1/database/seeds/sliderSeeder.php",
+		"/D/xampp/htdocs/duan1/public/js/slider.js",
+		"/D/xampp/htdocs/duan1/app/Tintuc.php",
+		"/D/xampp/htdocs/duan1/resources/views/page/addslides.blade.php",
+		"/D/xampp/htdocs/duan1/public/js/login.js",
+		"/D/xampp/htdocs/duan1/app/Http/Controllers/commentController.php",
+		"/D/xampp/htdocs/duan1/public/asset/bower_components/ion.rangeSlider/js/ion.rangeSlider.js",
+		"/D/xampp/htdocs/duan1/app/Http/Controllers/tintucController.php",
+		"/D/xampp/htdocs/duan1/resources/views/page/dangnhap.blade.php",
+		"/D/xampp/htdocs/duan1/public/js/comment.js",
+		"/D/xampp/htdocs/duan1/resources/views/page/hienthi.blade.php",
+		"/D/xampp/htdocs/duan1/resources/views/page/tintuc.blade.php",
+		"/D/xampp/htdocs/duan1/resources/views/home.blade.php",
+		"/D/xampp/htdocs/duan1/public/index.php",
+		"/D/xampp/htdocs/duan1/database/migrations/2019_03_21_064902_create_slides_table.php",
+		"/D/xampp/htdocs/duan1/database/migrations/2019_03_21_064706_slide.php",
+		"/D/xampp/htdocs/duan1/resources/views/page/themslide.blade.php",
+		"/D/xampp/htdocs/duan1/resources/views/page/single.blade.php",
+		"/D/xampp/htdocs/duan1/app/Comment.php",
+		"/D/xampp/htdocs/duan1/resources/views/admin_layout/master.blade.php",
+		"/D/xampp/htdocs/duan1/app/Images.php",
+		"/D/xampp/htdocs/duan1/resources/views/page/upfile.blade.php",
+		"/D/xampp/htdocs/hung/resources/views/admin/layout/index.blade.php",
+		"/D/xampp/htdocs/hung/resources/views/admin/layout/user.blade.php",
+		"/D/xampp/htdocs/hung/routes/web.php",
+		"/D/xampp/htdocs/hung/app/Http/Controllers/formController.php",
+		"/D/xampp/htdocs/hung/resources/views/admin/layout/menu.blade.php",
+		"/D/xampp/htdocs/hung/resources/views/admin/login.blade.php",
+		"/D/xampp/htdocs/hung/resources/views/admin/Theloai/sua.blade.php",
+		"/D/xampp/htdocs/hung/resources/views/admin/Theloai/danhsach.blade.php",
+		"/D/xampp/htdocs/hung/resources/views/admin/Theloai/them.blade.php",
+		"/D/xampp/htdocs/hung/resources/views/admin/layout/header.blade.php",
+		"/D/xampp/htdocs/hung/resources/views/admin/layout/footer.blade.php",
+		"/D/xampp/htdocs/hung/app/User.php",
+		"/D/xampp/htdocs/hung/app/TheLoai.php",
+		"/D/xampp/htdocs/hung/app/TinTuc.php",
+		"/D/xampp/htdocs/hung/app/Slide.php",
+		"/D/xampp/htdocs/hung/app/LoaiTin.php",
+		"/D/xampp/htdocs/hung/app/Comment.php",
+		"/D/xampp/htdocs/hung/config/app.php",
+		"/C/Users/Administrator/AppData/Local/Temp/Rar$DIa7452.24200/function.php",
+		"/D/xampp/htdocs/hung/vendor/nexmo/client/src/Entity/EmptyFilter.php",
+		"/D/xampp/htdocs/hung/resources/views/postform.blade.php",
+		"/D/xampp/htdocs/hung/resources/views/postform.php",
+		"/D/xampp/htdocs/hung/resources/views/form.blade.php",
+		"/D/xampp/htdocs/hung/resources/views/register.blade.php",
+		"/D/xampp/htdocs/hung/app/Http/Controllers/AboutController.php",
+		"/D/xampp/htdocs/hung/database/seeds/Teamwork.php",
+		"/D/xampp/htdocs/hung/database/seeds/Teamwork.php.php",
+		"/D/xampp/htdocs/hung/app/teamwork.php",
+		"/D/xampp/htdocs/hung/app/Providers/AppServiceProvider.php",
+		"/D/xampp/htdocs/hung/database/migrations/2019_02_25_064414_update_teamwork.php",
+		"/D/xampp/htdocs/hung/database/migrations/2019_02_25_024806_create_ten_table.php",
+		"/D/xampp/htdocs/hung/database/migrations/2019_02_25_032227_create_teamwork_table.php",
+		"/D/xampp/htdocs/hung/database/seeds/DatabaseSeeder.php",
+		"/D/xampp/htdocs/hung/webpack.mix.js"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "web.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"composer",
+				"composer.json"
+			],
+			[
+				"auth",
+				"config\\auth.php"
+			],
+			[
+				"app.php",
+				"config\\app.php"
+			],
+			[
+				"app http ker",
+				"app\\Http\\Kernel.php"
+			],
+			[
+				"kernel",
+				"app\\Console\\Kernel.php"
+			],
+			[
+				"config auth",
+				"config\\auth.php"
+			],
+			[
+				"config app",
+				"config\\app.php"
+			],
+			[
+				"composer.json",
+				"composer.json"
+			],
+			[
+				"web",
+				"routes\\web.php"
+			],
+			[
+				"master",
+				"resources\\views\\admin_layout\\master.blade.php"
+			],
+			[
+				"dang",
+				"resources\\views\\page\\dangnhap.blade.php"
+			],
+			[
+				"filter.php",
+				"vendor\\nexmo\\client\\src\\Entity\\EmptyFilter.php"
+			],
+			[
+				"ten table",
+				"database\\migrations\\2019_02_25_024806_create_ten_table.php"
+			],
+			[
+				"web.php",
+				"routes\\web.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 356.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
